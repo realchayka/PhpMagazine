@@ -1,0 +1,31 @@
+{
+    "1234": {
+        "name": "Яблоки",
+        "cost": 44.2,
+        "description": "Сочные спелы",
+        "order": 3,
+        "img": "apple.png"
+    },
+    "1235": {
+        "name": "Лимон",
+        "cost": 44.2,
+        "description": "Сочные спелы",
+        "order": 5,
+        "img": "lemon.png"
+    },
+    "1236": {
+        "name": "Апельсины",
+        "cost": 44.2,
+        "description": "Сочные спелы",
+        "order": 1,
+        "img": "orange.png"
+    },
+    "1237": {
+        "name": "Арбуз",
+        "cost": 44.2,
+        "description": "Сочные спелы",
+        "order": 8,
+        "img": "watermelon.png"
+    }
+
+}
